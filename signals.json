@@ -24,12 +24,6 @@
     "url": "https://www.bankofengland.co.uk/news/2026/january/international-central-bankers-on-the-statement-by-federal-reserve-chair-powell-on-11-january-2026"
   },
   {
-    "source": "PRA / BoE (UK)",
-    "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - December 2025",
-    "date": "Thu, 18 Dec 2025 12:00:00 Z",
-    "url": "https://www.bankofengland.co.uk/letter/2025/december/cpi-inflation-december-2025"
-  },
-  {
     "source": "FCA (UK)",
     "title": "FCA fines John Wood Group PLC for issuing misleading statements",
     "date": "Wednesday, March 4, 2026 - 10:34",
@@ -40,5 +34,11 @@
     "title": "Motor finance compensation scheme to include implementation period",
     "date": "Wednesday, March 4, 2026 - 07:03",
     "url": "https://www.fca.org.uk/news/statements/motor-finance-compensation-scheme-include-implementation-period"
+  },
+  {
+    "source": "FCA (UK)",
+    "title": "OPBAS identifies areas where anti-money laundering supervisors can improve",
+    "date": "Tuesday, March 3, 2026 - 10:00",
+    "url": "https://www.fca.org.uk/news/news-stories/opbas-aml-supervisors-areas-improve"
   }
 ]
