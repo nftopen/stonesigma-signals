@@ -1,5 +1,11 @@
 [
   {
+    "source": "PRA / BoE (UK)",
+    "title": "Bank Rate maintained at 3.75% - March 2026 Monetary Policy Summary and Minutes",
+    "date": "Thu, 19 Mar 2026 12:00:00 Z",
+    "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/march-2026"
+  },
+  {
     "source": "FSB",
     "title": "FSB kicks off new implementation phase to enhance cross-border payments through public-private partnership",
     "date": "Thu, 12 Mar 2026 15:30:00 +0000",
@@ -34,11 +40,5 @@
     "title": "FCA fines John Wood Group PLC for issuing misleading statements",
     "date": "Wednesday, March 4, 2026 - 10:34",
     "url": "https://www.fca.org.uk/news/press-releases/fca-fines-john-wood-group-plc-issuing-misleading-statements"
-  },
-  {
-    "source": "FCA (UK)",
-    "title": "Motor finance compensation scheme to include implementation period",
-    "date": "Wednesday, March 4, 2026 - 07:03",
-    "url": "https://www.fca.org.uk/news/statements/motor-finance-compensation-scheme-include-implementation-period"
   }
 ]
